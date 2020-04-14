@@ -1,4 +1,4 @@
-# Spring_MVC_BBS
+# Spring_MVC_BBS[진행중]
 
 ## 개요
 스프링 프레임워크를 사용하여 게시판 기능을 구현해보았습니다. [자바 어노테이션 기반 설정]
@@ -23,5 +23,7 @@
         * 첨부파일 수정 및 저장
         * 위지위그(CK Editor)
     * 삭제(Delete)
-        * 일괄삭제[Batch Delete]
-    
+        * 일괄삭제[Batch Delete] 
+
+## 진행
+* 현재 Spring Security를 공부하면서 로그인 기능을 구현하고 있습니다.
